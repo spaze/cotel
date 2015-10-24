@@ -72,7 +72,7 @@ class HomepagePresenter extends \Nette\Application\UI\Presenter
 
 	protected function createComponentSearch($formName)
 	{
-		$form = new \Companies20\Form\SearchForm($this, $formName);
+		$form = new \Cotel\Form\SearchForm($this, $formName);
 		$form->setTags($this->tags);
 		$form->onSuccess[] = $this->submittedSearch;
 	}
@@ -80,19 +80,19 @@ class HomepagePresenter extends \Nette\Application\UI\Presenter
 
 	protected function createComponentMedia($formName)
 	{
-		$form = new \Companies20\Form\MediaForm($this, $formName);
+		$form = new \Cotel\Form\MediaForm($this, $formName);
 		$form->onSuccess[] = $this->submittedMedia;
 	}
 
 
-	public function submittedSearch(\Companies20\Form\SearchForm $form)
+	public function submittedSearch(\Cotel\Form\SearchForm $form)
 	{
 		$values = $form->getValues();
 		$this->redirect('default', $values->search);
 	}
 
 
-	public function submittedMedia(\Companies20\Form\MediaForm $form)
+	public function submittedMedia(\Cotel\Form\MediaForm $form)
 	{
 		$values = $form->getValues();
 		$tags = array_filter(preg_split('/\s+/', $values->tags));

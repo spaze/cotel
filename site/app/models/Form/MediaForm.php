@@ -1,5 +1,5 @@
 <?php
-namespace Companies20\Form;
+namespace Cotel\Form;
 
 class MediaForm extends \Nette\Application\UI\Form
 {

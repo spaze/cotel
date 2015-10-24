@@ -1,5 +1,5 @@
 <?php
-namespace Companies20\Form;
+namespace Cotel\Form;
 
 class SearchForm extends \Nette\Application\UI\Form
 {
