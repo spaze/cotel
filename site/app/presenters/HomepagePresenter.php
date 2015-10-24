@@ -1,5 +1,5 @@
 <?php
-namespace Companies20Module;
+namespace App\Presenters;
 
 /**
  * Homepage presenter.
@@ -7,7 +7,7 @@ namespace Companies20Module;
  * @author     Michal Špaček
  * @package    michalspacek.cz
  */
-class HomepagePresenter extends BasePresenter
+class HomepagePresenter extends \Nette\Application\UI\Presenter
 {
 
 	/** @var \Nette\Database\Context */
