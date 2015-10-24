@@ -32,3 +32,7 @@ Installation
 This thingie is powered by [Nette Framework](https://nette.org/), thanks.
 
 *One more thing...* don't you even dare to install it.
+
+Known issues
+------------
+The code was separated from another repository, so there might be some missing parts here and there. Known issue is that the `X-XSS-Protection` and `Content-Security-Policy` headers are missing.
