@@ -17,4 +17,18 @@ Listing entries tagged with `cloud` and `netflix`:
 
 Installation
 ------------
-Just don't install it. In case you still want to, `cd site` and create `log` and `temp` directories, make them writable for your web server user. Then, install dependencies using `composer install`. The thing is powered by [Nette Framework](https://nette.org/), thanks. *One more thing...* don't you dare to install it.
+1. Just *don't* install it
+2. In case you still want to, `cd site`
+3. Create `log` and `temp` directories
+4. Make them writable for your web server user
+5. Install dependencies using `composer install`
+6. `cd app/config`
+7. Copy `config.local.neon.template` to `config.local.neon`
+8. Edit `dsn`, `user`, `password` in your new `config.local.neon`
+9. Point your virtual host document root to `site/www`
+10. ...
+11. Profit!
+
+This thingie is powered by [Nette Framework](https://nette.org/), thanks.
+
+*One more thing...* don't you even dare to install it.
