@@ -1,0 +1,18 @@
+{
+	"require": {
+		"php": ">= 5.3.7",
+		"nette/application": "~2.3.1",
+		"nette/bootstrap": "~2.3.1",
+		"nette/caching": "~2.3.1",
+		"nette/database": "~2.3.1",
+		"nette/robot-loader": "~2.3.0",
+		"tracy/tracy": "~2.3.1",
+		"spaze/netxten": "~0.4.0"
+	},
+	"repositories": [
+		{
+			"type": "vcs",
+			"url":  "https://github.com/spaze/netxten.git"
+		}
+	]
+}
