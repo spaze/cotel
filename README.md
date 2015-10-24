@@ -4,6 +4,10 @@ A ***prototype*** for a library of links to articles describing how companies do
 
 The code is of prototype and proof-of-concept quality, it's messy and I don't like it either. I wanted to nuke it from orbit but the data might be of some use to somebody so here it is, with source code and fries. You've been warned.
 
+Data
+----
+Probably the most interesting thing here is the data. 100 tagged links to articles (and videos) about mostly engineering topics. You know, scaling, architecture, but also a bit of "engineering HR". I've uploaded the data to the [`data`](data) dir, it's exported to SQL and YAML. The latter is missing tag categories, all the tags are equal. Tag categories are used to distinguish between tags used for tagging companies (`netflix`, `amazon`), technologies (`postgresql`, `nodejs`), etc.
+
 Screenshots
 -----------
 Typing `cr` into the searchbox:
