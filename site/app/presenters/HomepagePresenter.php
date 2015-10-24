@@ -24,6 +24,11 @@ class HomepagePresenter extends \Nette\Application\UI\Presenter
 
 	public function actionDefault($param)
 	{
+		// Yes, I hate this code, too.
+		// Yes, it was the fastest way to build a prototype.
+		// Yes, it would just kill the database server later on.
+		// No, do not use anywhere.
+		// Yes, you have just been warned.
 		$this->tags = array_filter(preg_split('/\s+/', $param));
 		if (empty($this->tags)) {
 			$query = 'SELECT * FROM urls';

@@ -1,0 +1,6 @@
+- boolean support in search ("mongodb OR postgresql")
+- add username to Add window, save to cookie, prefill the input field from cookie, add to users table, unique index
+- when on certain tag prefill the tag in the Add window
+- URL statuses, created, added, approved
+- edit tag and URLs using changesets
+- access key for search
