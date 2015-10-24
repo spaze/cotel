@@ -1,0 +1,500 @@
+- title: "How We Use It: MongoDB and Testomato"
+  url: http://blog.testomato.com/post/51796649267/how-we-use-mongodb-testomato
+  added: 2013-06-01 13:40:33
+  published: 2013-05-31 01:13:00
+  tags: [testomato, mongodb]
+- title: "Deploying at GitHub"
+  url: https://github.com/blog/1241-deploying-at-github
+  added: 2013-06-01 13:40:33
+  published: 2012-08-29 00:00:00
+  tags: [github, ci, deploy]
+- title: "Amazon Architecture"
+  url: http://highscalability.com/blog/2007/9/18/amazon-architecture.html
+  added: 2013-06-01 17:07:17
+  published: 2007-09-18 05:44:00
+  tags: [amazon]
+- title: "High Availability at Netflix"
+  url: http://slideslive.com/w/38890085
+  added: 2013-06-01 17:11:52
+  published: 2013-04-30 16:04:00
+  tags: [netflix, highavailability]
+- title: "How We Built eBay’s First Node.js Application"
+  url: http://www.ebaytechblog.com/2013/05/17/how-we-built-ebays-first-node-js-application/
+  added: 2013-06-01 17:13:20
+  published: 2013-05-17 00:00:00
+  tags: [ebay, nodejs]
+- title: "Cloud Architecture Tutorial"
+  url: http://www.slideshare.net/adrianco/netflix-architecture-tutorial-at-gluecon
+  added: 2013-06-01 17:18:57
+  published: 2012-05-23 00:00:00
+  tags: [netflix, cloud]
+- title: "The Tumblr Architecture Yahoo Bought for a Cool Billion Dollars"
+  url: http://highscalability.com/blog/2013/5/20/the-tumblr-architecture-yahoo-bought-for-a-cool-billion-doll.html
+  added: 2013-06-01 17:20:26
+  published: 2013-05-20 08:25:00
+  tags: [yahoo, tumblr]
+- title: "Continuous Deployment: Possibility or Pipe Dream?"
+  url: http://bostinno.streetwise.co/2011/11/21/continuous-deployment-possibility-or-pipe-dream/
+  added: 2013-06-01 17:27:44
+  published: 2011-11-21 12:09:00
+  tags: [imvu, deploy]
+- title: "What Powers Instagram: Hundreds of Instances, Dozens of Technologies"
+  url: http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances-dozens-of
+  added: 2013-06-01 17:32:55
+  published: 2011-12-02 23:29:42
+  tags: [instagram, stack]
+- title: "Exclusive: a behind-the-scenes look at Facebook release engineering"
+  url: http://arstechnica.com/business/2012/04/exclusive-a-behind-the-scenes-look-at-facebook-release-engineering/
+  added: 2013-06-01 17:36:16
+  published: 2012-04-05 17:30:00
+  tags: [facebook, release]
+- title: "The Instagram Architecture Facebook Bought for a Cool Billion Dollars"
+  url: http://highscalability.com/blog/2012/4/9/the-instagram-architecture-facebook-bought-for-a-cool-billio.html
+  added: 2013-06-01 17:38:42
+  published: 2012-04-09 12:49:00
+  tags: [facebook, instagram]
+- title: "The Netflix Simian Army"
+  url: http://techblog.netflix.com/2011/07/netflix-simian-army.html
+  added: 2013-06-01 17:40:14
+  published: 2011-07-19 00:00:00
+  tags: [netflix, cloud]
+- title: "MongoDB at foursquare: From the Cloud to Bare Metal"
+  url: http://www.10gen.com/presentations/mongodb-foursquare-cloud-bare-metal
+  added: 2013-06-01 17:41:04
+  published: 2012-12-04 00:00:00
+  tags: [foursquare, mongodb]
+- title: "Here’s How The Amazing Twitter Infosec Team Helps DevOps"
+  url: http://itrevolution.com/heres-how-the-amazing-twitter-infosec-team-helps-devops/
+  added: 2013-06-01 17:43:03
+  published: 2012-12-20 22:42:47
+  tags: [twitter, security]
+- title: "Just how big are porn sites?"
+  url: http://www.extremetech.com/computing/123929-just-how-big-are-porn-sites
+  added: 2013-06-01 17:51:09
+  published: 2012-04-04 13:12:00
+  tags: [porn, youporn, scale]
+- title: "Pushing Millions of Lines of Code Five Days a Week"
+  url: http://vimeo.com/56362484
+  added: 2013-06-01 17:54:35
+  published: 2011-05-27 23:45:00
+  tags: [facebook, release]
+- title: "Overclocking SSL"
+  url: http://www.imperialviolet.org/2010/06/25/overclocking-ssl.html
+  added: 2013-06-01 18:00:01
+  published: 2010-06-25 00:00:00
+  tags: [google, ssl]
+- title: "Tech Tuesday: Our Technology Stack"
+  url: http://imgur.com/blog/2013/06/04/tech-tuesday-our-technology-stack/
+  added: 2013-06-09 20:56:25
+  published: 2013-06-04 14:25:00
+  tags: [imgur, elasticsearch, redis, memcached, mysql, hbase, haproxy]
+- title: "Effectively Managing Memory at Gmail scale"
+  url: http://www.html5rocks.com/en/tutorials/memory/effectivemanagement/
+  added: 2013-06-22 18:42:41
+  published: 2013-06-12 00:00:00
+  tags: [gmail, memory, javascript]
+- title: "Atomic deploys at Etsy"
+  url: http://codeascraft.com/2013/07/01/atomic-deploys-at-etsy/
+  added: 2013-07-01 20:53:11
+  published: 2013-07-01 00:00:00
+  tags: [etsy, deploy]
+- title: "Timelines at Scale"
+  url: http://www.infoq.com/presentations/Twitter-Timeline-Scalability
+  added: 2013-07-18 18:06:37
+  published: 2013-04-03 00:00:00
+  tags: [twitter, redis, scale]
+- title: "Scaling Deployment at Etsy"
+  url: http://www.youtube.com/watch?v=AwOG65UGAH4
+  added: 2013-10-01 11:34:15
+  published: 2013-06-25 00:00:00
+  tags: [etsy, scale, deploy]
+- title: "We spent a week making Trello boards load extremely fast. Here’s how we did it."
+  url: http://blog.fogcreek.com/we-spent-a-week-making-trello-boards-load-extremely-fast-heres-how-we-did-it/
+  added: 2014-01-24 01:20:25
+  published: 2014-01-22 00:00:00
+  tags: [fogcreek, trello, javascript, performance]
+- title: "The Trello Tech Stack"
+  url: http://blog.fogcreek.com/the-trello-tech-stack/
+  added: 2014-01-24 01:28:36
+  published: 2012-01-19 00:00:00
+  tags: [fogcreek, trello, socketio, mustache, backbonejs, coffeescript, redis, haproxy, stack, nodejs, mongodb]
+- title: "How Basecamp Next got to be so damn fast without using much client-side UI"
+  url: http://37signals.com/svn/posts/3112-how-basecamp-next-got-to-be-so-damn-fast-without-using-much-client-side-ui
+  added: 2014-01-26 20:33:04
+  published: 2012-02-17 00:00:00
+  tags: [37signals, basecamp, pushstate, javascript, performance]
+- title: "How We Use Kanban at Testomato"
+  url: http://blog.testomato.com/post/75141928026/how-we-use-kanban-testomato
+  added: 2014-02-03 00:25:19
+  published: 2014-01-31 12:19:00
+  tags: [testomato, scrum, kanban]
+- title: "Dust JavaScript Templating, Open Source and More"
+  url: https://www.paypal-engineering.com/2013/06/17/set-my-ui-free-part-1-dust-javascript-templating-open-source-and-more/
+  added: 2014-02-03 03:38:03
+  published: 2013-06-17 00:00:00
+  tags: [paypal, dust, javascript]
+- title: "Node.js at PayPal"
+  url: https://www.paypal-engineering.com/2013/11/22/node-js-at-paypal/
+  added: 2014-02-03 03:39:21
+  published: 2013-11-22 00:00:00
+  tags: [paypal, nodejs]
+- title: "Scaling memcached at Facebook"
+  url: https://www.facebook.com/note.php?note_id=39391378919
+  added: 2014-02-12 17:38:49
+  published: 2008-12-12 21:43:00
+  tags: [facebook, memcached, scale]
+- title: "What it takes to run Stack Overflow"
+  url: http://nickcraver.com/blog/2013/11/22/what-it-takes-to-run-stack-overflow/
+  added: 2014-02-13 03:08:20
+  published: 2013-11-22 00:00:00
+  tags: [stackoverflow, iis, mssql, elasticsearch, redis, haproxy]
+- title: "Sklik je i spousta technologie"
+  url: http://sklik.cz.sblog.cz/2014/02/05/139
+  added: 2014-02-16 03:39:33
+  published: 2014-02-05 11:00:00
+  tags: [seznam, sklik, hadoop, mysql, hbase, cs]
+- title: "Security Team 2.1"
+  url: http://www.youtube.com/watch?v=AukR16ARmfs
+  added: 2014-02-17 01:15:11
+  published: 2014-02-10 00:00:00
+  tags: [google, chrome, scale, security, talk]
+- title: "Encrypted Data at Rest in Hadoop"
+  url: http://www.youtube.com/watch?v=x_vJPm3nX-c
+  added: 2014-02-17 01:45:21
+  published: 2014-02-05 00:00:00
+  tags: [square, hadoop, encryption, security, talk]
+- title: "Caching with Twemcache"
+  url: https://blog.twitter.com/2012/caching-with-twemcache
+  added: 2014-02-17 03:47:06
+  published: 2012-07-10 20:15:00
+  tags: [twitter, twemproxy, twemcache, memcached, article]
+- title: "Scaling Twitter: Making Twitter 10000 Percent Faster"
+  url: http://highscalability.com/scaling-twitter-making-twitter-10000-percent-faster
+  added: 2014-02-19 00:30:07
+  published: 2009-06-27 23:46:00
+  tags: [twitter, mongrel, erlang, rubyonrails, memcached, mysql, scale]
+- title: "QCon London 2009: Upgrading Twitter without service disruptions"
+  url: http://gojko.net/2009/03/16/qcon-london-2009-upgrading-twitter-without-service-disruptions/
+  added: 2014-02-19 01:00:43
+  published: 2009-03-16 15:58:00
+  tags: [twitter, scala, memcached, messaging, upgrade]
+- title: "Twitter on Scala, a conversation with Steve Jenson, Alex Payne, and Robey Pointer"
+  url: http://www.artima.com/scalazine/articles/twitter_on_scala.html
+  added: 2014-02-19 01:05:21
+  published: 2009-04-03 00:00:00
+  tags: [twitter, scala, rubyonrails, memcached]
+- title: "Scaling to Millions of Simultaneous Connections"
+  url: http://vimeo.com/44312354
+  added: 2014-02-21 04:32:41
+  published: 2012-06-19 09:08:00
+  tags: [whatsapp, freebsd, erlang, scale]
+- title: "Forward Secrecy at Twitter"
+  url: https://blog.twitter.com/2013/forward-secrecy-at-twitter-0
+  added: 2014-02-21 19:13:39
+  published: 2013-11-22 00:00:00
+  tags: [twitter, ssl, forwardsecrecy]
+- title: "Scaling MongoDB at Mailbox"
+  url: https://tech.dropbox.com/2013/09/scaling-mongodb-at-mailbox/
+  added: 2014-02-21 23:04:42
+  published: 2013-09-12 18:00:43
+  tags: [dropbox, mailbox, hydra, mongodb]
+- title: "Video Processing at Dropbox"
+  url: https://tech.dropbox.com/2014/02/video-processing-at-dropbox/
+  added: 2014-02-21 23:07:22
+  published: 2014-02-18 17:21:43
+  tags: [dropbox]
+- title: "Improving Dropbox Performance: Retrieving Thumbnails"
+  url: https://tech.dropbox.com/2014/01/retrieving-thumbnails/
+  added: 2014-02-21 23:08:49
+  published: 2014-01-27 18:41:42
+  tags: [dropbox]
+- title: "The WhatsApp Architecture Facebook Bought For $19 Billion"
+  url: http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html
+  added: 2014-02-27 01:22:10
+  published: 2014-02-26 08:56:00
+  tags: [whatsapp, facebook, freebsd, erlang, scale]
+- title: "New Facebook Chat Feature Scales To 70 Million Users Using Erlang"
+  url: http://highscalability.com/blog/2008/5/14/new-facebook-chat-feature-scales-to-70-million-users-using-e.html
+  added: 2014-02-27 02:00:32
+  published: 2008-05-14 17:09:00
+  tags: [facebook, erlang, chat, scale]
+- title: "ZooKeeper Resilience at Pinterest"
+  url: http://engineering.pinterest.com/post/77933733851/zookeeper-resilience-at-pinterest
+  added: 2014-03-01 18:24:41
+  published: 2014-02-26 00:00:00
+  tags: [pinterest, zookeeper, highavailability]
+- title: "Deploying software at Pinterest"
+  url: http://engineering.pinterest.com/post/70621633046/deploying-software-at-pinterest
+  added: 2014-03-01 18:28:53
+  published: 2013-12-20 00:00:00
+  tags: [pinterest, git, jenkins, zookeeper, deploy]
+- title: "Crittercism: Scaling To Billions Of Requests Per Day On MongoDB"
+  url: http://blog.mongodb.org/post/77278906988/crittercism-scaling-to-billions-of-requests-per-day-on
+  added: 2014-03-01 18:31:48
+  published: 2014-02-20 00:00:00
+  tags: [crittercism, mongodb, scale]
+- title: "Taking PHP Seriously"
+  url: http://www.infoq.com/presentations/php-facebook
+  added: 2014-03-04 02:06:16
+  published: 2014-02-26 00:00:00
+  tags: [facebook, hack, hhvm, php, talk]
+- title: "The Netflix Dynamic Scripting Platform"
+  url: http://techblog.netflix.com/2014/03/the-netflix-dynamic-scripting-platform.html
+  added: 2014-03-17 00:49:46
+  published: 2014-03-03 00:00:00
+  tags: [netflix, groovy, api]
+- title: "How Netflix Reverse Engineered Hollywood"
+  url: http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/
+  added: 2014-03-17 01:06:27
+  published: 2014-01-02 11:58:00
+  tags: [netflix, metadata]
+- title: "How Netflix Reinvented HR"
+  url: http://www.todayonline.com/business/management/how-netflix-reinvented-hr
+  added: 2014-03-17 01:24:41
+  published: 2014-01-20 04:02:00
+  tags: [netflix, hr, article]
+- title: "Netflix Culture: Freedom & Responsibility"
+  url: http://www.slideshare.net/reed2001/culture-1798664
+  added: 2014-03-17 01:26:01
+  published: 2009-08-01 00:00:00
+  tags: [netflix, hr, slides]
+- title: "Building A Social Music Service Using AWS, Scala, Akka, Play, MongoDB, And Elasticsearch"
+  url: http://highscalability.com/blog/2014/3/11/building-a-social-music-service-using-aws-scala-akka-play-mo.html
+  added: 2014-03-17 01:56:51
+  published: 2014-03-11 08:56:00
+  tags: [serendip, akka, playframework, scala, elasticsearch, mongodb]
+- title: "Redis as the primary data store? WTF?!"
+  url: https://muut.com/blog/technology/redis-as-primary-datastore-wtf.html
+  added: 2014-03-23 15:41:21
+  published: 2013-04-08 00:00:00
+  tags: [muut, redis]
+- title: "The Road To IPv6"
+  url: https://www.facebook.com/groups/2234775539/10152303014750540/
+  added: 2014-03-24 02:04:55
+  published: 2014-03-20 00:00:00
+  tags: [facebook, linux, ipv6, php, slides]
+- title: "How WhatsApp Grew To Nearly 500 Million Users, 11,000 Cores, And 70 Million Messages A Second"
+  url: http://highscalability.com/blog/2014/3/31/how-whatsapp-grew-to-nearly-500-million-users-11000-cores-an.html
+  added: 2014-04-01 01:13:26
+  published: 2014-03-31 08:56:00
+  tags: [whatsapp, facebook, mnesia, freebsd, erlang, scale, talk, article]
+- title: "How The AOL.Com Architecture Evolved To 99.999% Availability, 8 Million Visitors Per Day, And 200,000 Requests Per Second"
+  url: http://highscalability.com/blog/2014/2/17/how-the-aolcom-architecture-evolved-to-99999-availability-8.html
+  added: 2014-04-03 02:12:26
+  published: 2014-02-17 08:56:00
+  tags: [aol, java, mysql, scale]
+- title: "Stackoverflow.com: the road to SSL"
+  url: http://nickcraver.com/blog/2013/04/23/stackoverflow-com-the-road-to-ssl/
+  added: 2014-04-20 03:13:30
+  published: 2013-04-23 00:00:00
+  tags: [stackoverflow, nginx, haproxy, ssl]
+- title: "Behind The Scenes: tools.maxcdn.com"
+  url: http://blog.maxcdn.com/behind-scenes-tools-maxcdn-com/
+  added: 2014-04-20 03:16:13
+  published: 2014-04-14 00:00:00
+  tags: [cdn, maxcdn]
+- title: "Spotify — Behind the Scenes"
+  url: http://www.csc.kth.se/~gkreitz/spotify/
+  added: 2014-04-20 03:22:41
+  published: 2011-04-28 00:00:00
+  tags: [spotify, peertopeer]
+- title: "Behind the scenes"
+  url: http://www.slideshare.net/ricardovice/spotify-behind-the-scenes
+  added: 2014-04-20 03:25:02
+  published: 2011-02-10 00:00:00
+  tags: [spotify, peertopeer]
+- title: "Data Architecture Lessons from LinkedIn.com Data Handling Mechanisms"
+  url: http://vitalflux.com/data-handled-linkedin-com/
+  added: 2014-04-20 03:30:10
+  published: 2014-04-03 00:00:00
+  tags: [linkedin, voldemort, oracle, hadoop, memcached, mysql]
+- title: "Building Carousel, Part I: How we made our networked mobile app feel fast and local"
+  url: https://tech.dropbox.com/2014/04/building-carousel-part-i-how-we-made-our-networked-mobile-app-feel-fast-and-local/
+  added: 2014-04-21 23:14:16
+  published: 2014-04-14 18:59:12
+  tags: [dropbox, carousel, sqlite]
+- title: "Hyper-Growth Done Right - Lessons From the Man Who Scaled Engineering at Dropbox and Facebook"
+  url: http://firstround.com/article/Hyper-Growth-Done-Right-Lessons-From-the-Man-Who-Scaled-Engineering-at-Dropbox-and-Facebook
+  added: 2014-04-21 23:19:26
+  published: 2014-04-10 00:00:00
+  tags: [dropbox, facebook, hr, scale]
+- title: "12-Step Program for Scaling Web Applications on PostgreSQL"
+  url: http://www.slideshare.net/kigster/12step-program-for-scaling-web-applications-on-postgresql
+  added: 2014-04-21 23:20:33
+  published: 2014-03-19 00:00:00
+  tags: [wanelo, postgresql, scale]
+- title: "Scaling Mercurial at Facebook"
+  url: https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook/
+  added: 2014-04-24 20:51:58
+  published: 2014-01-07 21:16:00
+  tags: [facebook, mercurial, git, scale]
+- title: "How Docker Helped Us Achieve the (Near) Impossible"
+  url: http://blog.iron.io/2014/04/how-docker-helped-us-achieve-near.html
+  added: 2014-04-25 22:58:18
+  published: 2014-04-22 00:00:00
+  tags: [ironio, docker]
+- title: "How Disqus Went Realtime With 165K Messages Per Second And Less Than .2 Seconds Latency"
+  url: http://highscalability.com/blog/2014/4/28/how-disqus-went-realtime-with-165k-messages-per-second-and-l.html
+  added: 2014-04-29 00:17:12
+  published: 2014-04-28 09:21:00
+  tags: [disqus, python, nginx, latency, realtime, scale, talk, slides]
+- title: "Building a large scale CDN with Apache Traffic Server"
+  url: https://www.youtube.com/watch?v=q1mndAYZlio
+  added: 2014-05-08 18:02:16
+  published: 2014-04-25 00:00:00
+  tags: [comcast, cdn, trafficserver, talk]
+- title: "A Short On How The Wayback Machine Stores More Pages Than Stars In The Milky Way"
+  url: http://highscalability.com/blog/2014/5/19/a-short-on-how-the-wayback-machine-stores-more-pages-than-st.html
+  added: 2014-05-19 18:35:59
+  published: 2014-05-19 08:56:00
+  tags: [waybackmachine, tomcat, nginx, redis, haproxy]
+- title: "The Architecture Twitter Uses To Deal With 150M Active Users, 300K QPS, A 22 MB/S Firehose, And Send Tweets In Under 5 Seconds"
+  url: http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html
+  added: 2014-05-23 15:11:11
+  published: 2013-07-08 08:54:00
+  tags: [twitter]
+- title: "Shipping mobile apps every week"
+  url: http://eng.yammer.com/shipping-mobile-apps-every-week/
+  added: 2014-05-24 02:44:50
+  published: 2014-04-28 00:00:00
+  tags: [yammer, release]
+- title: "Testing Cassandra 1000 Nodes at a Time"
+  url: http://www.datastax.com/dev/blog/testing-cassandra-1000-nodes-at-a-time
+  added: 2014-05-24 02:49:05
+  published: 2014-04-28 00:00:00
+  tags: [datastax, cassandra, testing]
+- title: "Introducing Pinterest Secor"
+  url: http://engineering.pinterest.com/post/84276775924/introducing-pinterest-secor
+  added: 2014-05-24 02:53:55
+  published: 2014-04-29 00:00:00
+  tags: [pinterest, kafka, logs]
+- title: "Crypto-Anchoring: Defending against offline attacks"
+  url: https://www.youtube.com/watch?v=lrGbK6fE7bI
+  added: 2014-05-26 03:00:45
+  published: 2014-02-19 00:00:00
+  tags: [square, security]
+- title: "Migrating To XtraDB Cluster In EC2 At PagerDuty"
+  url: http://highscalability.com/blog/2014/6/16/migrating-to-xtradb-cluster-in-ec2-at-pagerduty.html
+  added: 2014-06-27 22:44:50
+  published: 2014-06-16 09:01:00
+  tags: [pagerduty, xtradbcluster, percona, mysql, migration]
+- title: "How LinkedIn used PoPs and RUM to make dynamic content download 25% faster"
+  url: http://engineering.linkedin.com/performance/how-linkedin-used-pops-and-rum-make-dynamic-content-download-25-faster
+  added: 2014-07-11 02:37:26
+  published: 2014-06-25 00:00:00
+  tags: [linkedin, realusermonitoring, pointofpresence, performance]
+- title: "A Proper Server Naming Scheme"
+  url: http://mnx.io/blog/a-proper-server-naming-scheme/
+  added: 2014-07-11 02:45:49
+  published: 2014-07-10 00:00:00
+  tags: [mnx, dns]
+- title: "Moving Atom To React"
+  url: http://blog.atom.io/2014/07/02/moving-atom-to-react.html
+  added: 2014-07-11 03:45:45
+  published: 2014-07-02 00:00:00
+  tags: [github, atom, react]
+- title: "Bitly: Lessons Learned Building A Distributed System That Handles 6 Billion Clicks A Month"
+  url: http://highscalability.com/blog/2014/7/14/bitly-lessons-learned-building-a-distributed-system-that-han.html
+  added: 2014-07-14 18:33:41
+  published: 2014-07-14 09:00:00
+  tags: [bitly, soa]
+- title: "Handling 1 Billion requests a week with Symfony2"
+  url: http://labs.octivi.com/handling-1-billion-requests-a-week-with-symfony2/
+  added: 2014-07-23 03:12:10
+  published: 2014-07-22 00:00:00
+  tags: [octivi, apache, varnish, symfony, redis, mysql, haproxy]
+- title: "StackOverflow Update: 560M Pageviews A Month, 25 Servers, And It's All About Performance"
+  url: http://highscalability.com/blog/2014/7/21/stackoverflow-update-560m-pageviews-a-month-25-servers-and-i.html
+  added: 2014-07-23 03:14:03
+  published: 2014-07-21 09:00:00
+  tags: [stackoverflow, mssql, elasticsearch, haproxy]
+- title: "Auth0 Architecture - Running In Multiple Cloud Providers And Regions"
+  url: http://highscalability.com/blog/2014/12/1/auth0-architecture-running-in-multiple-cloud-providers-and-r.html
+  added: 2014-12-10 23:16:53
+  published: 2014-12-01 08:56:00
+  tags: [auth0, cdn, docker, mongodb]
+- title: "Seznam.cz pohání sedm tisíc serverů s Debianem"
+  url: http://www.root.cz/clanky/seznam-cz-pohani-sedm-tisic-serveru-s-debianem/
+  added: 2014-12-10 23:21:27
+  published: 2014-10-10 00:00:00
+  tags: [seznam, debian, linux, cs]
+- title: "CasperJS, our friendly testing tool"
+  url: http://making.vimeo.com/post/96719707679/casperjs-our-friendly-testing-tool
+  added: 2014-12-10 23:28:13
+  published: 2014-09-05 00:00:00
+  tags: [vimeo, casperjs, jenkins]
+- title: "Making MySQL Better at GitHub"
+  url: https://github.com/blog/1880-making-mysql-better-at-github
+  added: 2014-12-10 23:29:51
+  published: 2014-09-02 00:00:00
+  tags: [github, mysql, performance]
+- title: "How Clay.Io Built Their 10x Architecture Using AWS, Docker, HAProxy, And Lots More"
+  url: http://highscalability.com/blog/2014/10/6/how-clayio-built-their-10x-architecture-using-aws-docker-hap.html
+  added: 2014-12-10 23:33:02
+  published: 2014-10-06 00:00:00
+  tags: [clayio, ansible, docker, memcached, mysql, haproxy, mongodb]
+- title: "MixRadio Architecture - Playing With An Eclectic Mix Of Services"
+  url: http://highscalability.com/blog/2014/8/25/mixradio-architecture-playing-with-an-eclectic-mix-of-servic.html
+  added: 2014-12-10 23:38:23
+  published: 2014-08-25 00:00:00
+  tags: [mixradio, clojure, linux, zookeeper, elasticsearch, redis, mysql, mongodb, architecture, microservices]
+- title: "Making Sense of CSP Reports @ Scale"
+  url: http://engineeringblog.yelp.com/2014/09/csp_reports_at_scale.html
+  added: 2014-12-10 23:40:34
+  published: 2014-09-08 00:00:00
+  tags: [yelp, contentsecuritypolicy, scale, security]
+- title: "How Twitter Uses Redis To Scale - 105TB RAM, 39MM QPS, 10,000+ Instances"
+  url: http://highscalability.com/blog/2014/9/8/how-twitter-uses-redis-to-scale-105tb-ram-39mm-qps-10000-ins.html
+  added: 2014-12-10 23:42:56
+  published: 2014-09-08 09:05:00
+  tags: [twitter, redis, scale]
+- title: "How NASA launched its web infrastructure into the cloud"
+  url: https://gigaom.com/2014/12/19/how-nasa-launched-its-web-infrastructure-into-the-cloud/
+  added: 2015-01-11 20:20:13
+  published: 2014-12-19 05:00:00
+  tags: [nasa, cloud]
+- title: "How Wikipedia Transitioned to HHVM"
+  url: http://www.adweek.com/socialtimes/wikipedia-hhvm/440399
+  added: 2015-01-28 22:19:58
+  published: 2015-01-08 13:12:00
+  tags: [wikimedia, hhvm]
+- title: "Demystifying SEO with experiments"
+  url: http://engineering.pinterest.com/post/109318939139/demystifying-seo-with-experiments
+  added: 2015-01-28 22:24:08
+  published: 2015-01-27 00:00:00
+  tags: [pinterest, seo]
+- title: "Animating the Mobile Web"
+  url: http://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html
+  added: 2015-01-30 00:39:37
+  published: 2015-01-27 00:00:00
+  tags: [yelp, animation]
+- title: "DNSSEC Done Right"
+  url: https://blog.cloudflare.com/dnssec-done-right/
+  added: 2015-01-30 23:21:13
+  published: 2015-01-29 00:00:00
+  tags: [cloudflare, dnssec, dns]
+- title: "eBay's Architectural Principles"
+  url: http://www.slideshare.net/deimos/randy-shoup-ebays-architectural-principles
+  added: 2015-02-26 14:53:04
+  published: 2008-03-18 00:00:00
+  tags: [ebay, architecture]
+- title: "How Mingle Built its ElasticSearch Cluster on AWS"
+  url: http://www.thoughtworks.com/insights/blog/how-mingle-built-its-elasticsearch-cluster-aws
+  added: 2015-03-04 16:00:25
+  published: 2015-01-20 00:00:00
+  tags: [mingle, aws, elasticsearch, cloud]
+- title: "Adopting Microservices at Netflix: Lessons for Team and Process Design"
+  url: http://nginx.com/blog/adopting-microservices-at-netflix-lessons-for-team-and-process-design/
+  added: 2015-03-13 16:51:50
+  published: 2015-03-10 00:00:00
+  tags: [netflix, microservices]
+- title: "Experimenting with HHVM at Etsy"
+  url: https://codeascraft.com/2015/04/06/experimenting-with-hhvm-at-etsy/
+  added: 2015-04-06 23:05:43
+  published: 2015-04-06 00:00:00
+  tags: [etsy, hhvm, performance]
+- title: "Scaling out PostgreSQL for CloudFlare Analytics using CitusDB"
+  url: https://blog.cloudflare.com/scaling-out-postgresql-for-cloudflare-analytics-using-citusdb/
+  added: 2015-04-10 00:11:00
+  published: 2015-04-09 00:00:00
+  tags: [cloudflare, citusdb, postgresql, scale]
