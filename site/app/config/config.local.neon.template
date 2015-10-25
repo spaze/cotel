@@ -1,9 +1,0 @@
-parameters:
-
-
-database:
-	dsn: 'mysql:host=localhost;dbname=cotel'
-	user: username
-	password: password
-	options:
-		lazy: yes

@@ -1,0 +1,21 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Cotel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <ul>
+    {% for item in site.data.cotel %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+            <small>{{ item.tags | join: ', ' }}</small>
+        </li>
+    {% endfor %}
+    </ul>
+</body>
+</html>
+

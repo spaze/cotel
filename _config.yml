@@ -1,0 +1,3 @@
+markdown: kramdown
+name: Cotel
+exclude: ['README.md', 'Gemfile*', 'CNAME', 'vendor', 'screenshots']
