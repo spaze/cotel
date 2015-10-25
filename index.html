@@ -5,12 +5,30 @@ why: A dummy comment to make Jekyll process this file
 <html lang="en">
 <head>
     <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <title>Cotel</title>
-    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div id="links">
-        <input id="search" class="search" placeholder="filter">
+
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#">Cotel</a>
+                </div>
+                <form class="navbar-form navbar-left" role="search">
+                    <div class="form-group">
+                        <input id="search" class="form-control search" placeholder="filter">
+                    </div>
+                </form>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="https://github.com/spaze/cotel">GitHub</a></li>
+                </ul>
+            </div>
+        </nav>
+
         <ul class="list">
         {% for item in site.data.cotel %}
             <li>
@@ -19,7 +37,12 @@ why: A dummy comment to make Jekyll process this file
             </li>
         {% endfor %}
         </ul>
+
     </div>
+
+    <script src="/lib/jquery/dist/jquery.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+
     <script src="http://listjs.com/no-cdn/list.js"></script>
     <script>
     var options = {
@@ -28,6 +51,7 @@ why: A dummy comment to make Jekyll process this file
     var userList = new List('links', options);
     document.getElementById('search').focus();
     </script>
+
 </body>
 </html>
 
