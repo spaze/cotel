@@ -1,4 +1,5 @@
 ---
+why: A dummy comment to make Jekyll process this file
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -8,14 +9,25 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <ul>
-    {% for item in site.data.cotel %}
-        <li>
-            <a href="{{ item.url }}">{{ item.title }}</a>
-            <small>{{ item.tags | join: ', ' }}</small>
-        </li>
-    {% endfor %}
-    </ul>
+    <div id="links">
+        <input id="search" class="search" placeholder="filter">
+        <ul class="list">
+        {% for item in site.data.cotel %}
+            <li>
+                <a href="{{ item.url }}" class="title">{{ item.title }}</a>
+                <small class="tags">{{ item.tags | join: ', ' }}</small>
+            </li>
+        {% endfor %}
+        </ul>
+    </div>
+    <script src="http://listjs.com/no-cdn/list.js"></script>
+    <script>
+    var options = {
+        valueNames: ['title', 'tags']
+    };
+    var userList = new List('links', options);
+    document.getElementById('search').focus();
+    </script>
 </body>
 </html>
 
