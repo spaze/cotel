@@ -8,15 +8,16 @@ why: A dummy comment to make Jekyll process this file
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
     <title>Cotel</title>
 </head>
 <body>
     <div id="links">
 
         <nav class="navbar navbar-default">
-            <div class="container-fluid">
+            <div class="container">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="#">Cotel</a>
+                    <span class="navbar-brand">Cotel</span>
                 </div>
                 <form class="navbar-form navbar-left" role="search">
                     <div class="form-group">
@@ -29,14 +30,16 @@ why: A dummy comment to make Jekyll process this file
             </div>
         </nav>
 
-        <ul class="list">
-        {% for item in site.data.cotel %}
-            <li>
-                <a href="{{ item.url }}" class="title">{{ item.title }}</a>
-                <small class="tags">{{ item.tags | join: ', ' }}</small>
-            </li>
-        {% endfor %}
-        </ul>
+        <div class="container">
+            <ul class="list">
+            {% for item in site.data.cotel %}
+                <li>
+                    <h2><a href="{{ item.url }}" class="title">{{ item.title }}</a></h2>
+                    <span class="tags text-muted">{{ item.tags | join: ', ' }}</span>
+                </li>
+            {% endfor %}
+            </ul>
+        </div>
 
     </div>
 
